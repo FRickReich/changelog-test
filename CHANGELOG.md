@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.6](https://github.com/FRickReich/changelog-test/compare/v2.0.5...v2.0.6) (2022-01-27)
+
+
+### Bug Fixes
+
+* **version:** change and Delete associated files ([65df7e3](https://github.com/FRickReich/changelog-test/commit/65df7e3a0c5c7ac8b967458e7f0af9ca0449f3f5))
+
 ### [2.0.5](https://github.com/FRickReich/changelog-test/compare/v2.0.4...v2.0.5) (2022-01-27)
 
 ### [2.0.4](https://github.com/FRickReich/changelog-test/compare/v2.0.3...v2.0.4) (2022-01-27)
